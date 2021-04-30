@@ -1,5 +1,5 @@
 # PacMan
-This repo contains the files of a PacMan animation. This is one of the very first ones added and more will come.
+This repo contains the files of Mr. PacMan 🎮 animation. This is one of the very first ones added and more will come.
 
 ## Description
 In this project two files were created one containing the tag for the images to be used and the second containing the JavaScript file that makes the animation of Mr. PacMan.
